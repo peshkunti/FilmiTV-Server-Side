@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FilmiTV Server Side</string>
+    <string name="client_id_web">975201646073-ps56i1ra6bnn8jcvggmvn8kqao5lqko9.apps.googleusercontent.com</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
 </resources>

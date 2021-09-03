@@ -19,7 +19,4 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.FilmiTVServerSide.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
-
-    <style name="Theme.FilmiTVServerSide.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
